@@ -13,7 +13,7 @@
 
   <!-- Social Links -->
   <a href="https://www.linkedin.com/in/darshan-i-h-705287240/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.darshanih2057@gmail.com.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:darshanih2057@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   
 </div>
 
@@ -43,4 +43,34 @@
   </a>
 </p>
 
-<
+<br>
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Jarvis.AI](https://github.com/darshan3751/Jarvis.AI)** | A fully functional AI Voice Assistant desktop application with speech recognition and web automation. | `Python`, `GenAI`, `SpeechRecognition` |
+| **[Pyspark_dbt_project](https://github.com/darshan3751/Pyspark_dbt_project)** | 🚖 Uber Data Analysis project using big data processing and data transformation. | `PySpark`, `dbt`, `Data Engineering` |
+| **[AzureProject](https://github.com/darshan3751/AzureProject)** | End-to-end Data Engineering pipeline built using Azure and automated with CI/CD. | `Azure`, `CI/CD`, `Pipelines` |
+| **[AI_FUNDAMENTALS](https://github.com/darshan3751/AI_FUNDAMENTALS)** | A collection of Jupyter Notebooks exploring LLMs, embeddings, and core AI concepts. | `Jupyter`, `LLMs`, `Embeddings` |
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan3751&show_icons=true&theme=tokyonight" alt="Darshan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan3751&theme=tokyonight" alt="Darshan's GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan3751&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+<div align="center">
+  <i>Profile Visitors:</i><br>
+  <img src="https://profile-counter.glitch.me/darshan3751/count.svg" />
+</div>
