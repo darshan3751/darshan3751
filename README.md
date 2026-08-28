@@ -7,9 +7,9 @@
 
   <br>
 
-  <!-- Animated Stylish Quote -->
+  <!-- Shining Animated Quote (No Typing) -->
   <a href="https://github.com/darshan3751">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=28&pause=2000&color=FF5722&center=true&vCenter=true&width=650&lines=✨+%22Legends+are+lazy+until+work+becomes+crazy.%22;🔥+%22Legends+are+lazy+until+work+becomes+crazy.%22;⚡+%22Legends+are+lazy+until+work+becomes+crazy.%22" alt="Animated Quote" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:2196F3,100:00F5FF&height=50&text=%22Legends%20are%20lazy%20until%20work%20becomes%20crazy.%22&fontSize=19&fontAlign=50&fontAlignY=50&animation=twinkling" alt="Shining Quote" />
   </a>
 
   <br>
