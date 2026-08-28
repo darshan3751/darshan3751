@@ -7,9 +7,9 @@
 
   <br>
 
-  <!-- Shining Animated Quote (No Typing) -->
+  <!-- Simple Twinkling Quote -->
   <a href="https://github.com/darshan3751">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:2196F3,100:00F5FF&height=50&text=%22Legends%20are%20lazy%20until%20work%20becomes%20crazy.%22&fontSize=19&fontAlign=50&fontAlignY=50&animation=twinkling" alt="Shining Quote" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&stroke=2196F3&strokeWidth=1&height=50&text=%22Legends%20are%20lazy%20until%20work%20becomes%20crazy.%22&fontSize=18&fontColor=2196F3&fontAlign=50&fontAlignY=50&animation=twinkling" alt="Twinkling Quote" />
   </a>
 
   <br>
