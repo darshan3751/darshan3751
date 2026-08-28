@@ -5,12 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Darshan+I+H+👋;AI+%26+Data+Engineering+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
   </a>
 
-  <br>
-
-  <!-- Simple Twinkling Quote -->
-  <a href="https://github.com/darshan3751">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&stroke=2196F3&strokeWidth=1&height=50&text=%22Legends%20are%20lazy%20until%20work%20becomes%20crazy.%22&fontSize=18&fontColor=2196F3&fontAlign=50&fontAlignY=50&animation=twinkling" alt="Twinkling Quote" />
-  </a>
+  <p align="center">
+    <em>"Legends are lazy until work becomes crazy."</em>
+  </p>
 
   <br>
 
