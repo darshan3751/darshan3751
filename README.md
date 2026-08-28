@@ -5,9 +5,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Darshan+I+H+👋;AI+%26+Data+Engineering+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <em>"Legends are lazy until work becomes crazy."</em>
-  </p>
+  <br>
+
+  <!-- Animated Stylish Quote -->
+  <a href="https://github.com/darshan3751">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=28&pause=2000&color=FF5722&center=true&vCenter=true&width=650&lines=✨+%22Legends+are+lazy+until+work+becomes+crazy.%22;🔥+%22Legends+are+lazy+until+work+becomes+crazy.%22;⚡+%22Legends+are+lazy+until+work+becomes+crazy.%22" alt="Animated Quote" />
+  </a>
 
   <br>
 
